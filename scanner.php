@@ -3,10 +3,10 @@ error_reporting(0);
 $pr = file_get_contents("lib/port.txt");
 $port = explode("\n", $pr);
 echo "\r
-###################################
-# ICWR-TECH - Service Port Scaner #
-#       Coded By Afrizal F.A      #
-###################################
+####################################
+# ICWR-TECH - Service Port Scanner #
+#       Coded By Afrizal F.A       #
+####################################
 \n";
 while(true) {
 echo "Target => ";
