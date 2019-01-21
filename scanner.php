@@ -5,7 +5,7 @@ $port = explode("\n", $pr);
 echo "\r
 ###################################
 # ICWR-TECH - Service Port Scaner #
-#       Coded By ErrorByte        #
+#       Coded By Afrizal F.A      #
 ###################################
 \n";
 while(true) {
